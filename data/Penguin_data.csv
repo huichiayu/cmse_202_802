@@ -1,4 +1,4 @@
-studyName,Sample Number,Species,Region,Island,Individual ID,Clutch Completion,Date Egg,Culmen Length (mm),Culmen Depth (mm),Flipper Length (mm),Body Mass (g),Sex
+studyName,SampleNumber,Species,Region,Island,Individual_ID,ClutchCompletion,DateEgg,CulmenLength(mm),CulmenDepth(mm),FlipperLength(mm),BodyMass(g),Sex
 PAL0708,1,Gentoo,Anvers,Biscoe,N31A1,Yes,2007-11-27,46.1,13.2,211,4500,FEMALE
 PAL0708,2,Gentoo,Anvers,Biscoe,N31A2,Yes,2007-11-27,50.0,16.3,230,5700,MALE
 PAL0708,3,Gentoo,Anvers,Biscoe,N32A1,Yes,2007-11-27,48.7,14.1,210,4450,FEMALE
