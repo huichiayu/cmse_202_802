@@ -10,6 +10,7 @@ Tommy,withdraw,500,
 Marlin,deposit,5000,
 Marlin,transfer,10000,Bill
 Bill,transfer,300,Elli
+Tommy,transfer,700,Elli
 Elli,withdraw,100,
 Bill,deposit,250,
 Henry,withdraw,1500,
